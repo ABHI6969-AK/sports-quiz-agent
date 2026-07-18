@@ -6,11 +6,8 @@ An AI-powered Sports Quiz Generator built using **Streamlit**, **Groq LLM**, **C
 
 ## 🚀 Live Demo
 
-🔗 Streamlit App: *(Paste your Streamlit URL here)*
+🔗 Streamlit App: https://sports-quiz-agent-dxsz2hprepix6ufgfjsx3m.streamlit.app/
 
-Example:
-
-https://your-app-name.streamlit.app
 
 ---
 
