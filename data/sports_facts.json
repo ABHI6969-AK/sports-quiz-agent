@@ -1,0 +1,34 @@
+[
+  {
+    "sport": "Cricket",
+    "fact": "Sachin Tendulkar is known as the Master Blaster."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "A cricket team has 11 players."
+  },
+  {
+    "sport": "Football",
+    "fact": "The FIFA World Cup is held every four years."
+  },
+  {
+    "sport": "Football",
+    "fact": "A football match consists of two halves of 45 minutes each."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "An NBA team has five players on the court."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "A standard basketball hoop is 10 feet high."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "Wimbledon is the oldest tennis tournament."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "A tennis match is played using a racket and a ball."
+  }
+]

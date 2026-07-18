@@ -1,0 +1,132 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+html, body, [class*="css"] {
+    font-family: "Poppins", sans-serif;
+}
+
+.stApp{
+    background: linear-gradient(135deg,#07111f,#101d35,#172554);
+    color:white;
+}
+
+/* Hide Streamlit Branding */
+#MainMenu{
+    visibility:hidden;
+}
+
+footer{
+    visibility:hidden;
+}
+
+header{
+    visibility:hidden;
+}
+
+/* Main Title */
+
+.title{
+    font-size:48px;
+    font-weight:800;
+    text-align:center;
+    color:white;
+}
+
+.subtitle{
+    text-align:center;
+    color:#cbd5e1;
+    font-size:18px;
+    margin-bottom:30px;
+}
+
+/* Cards */
+
+.card{
+
+background:rgba(255,255,255,0.08);
+
+backdrop-filter:blur(18px);
+
+padding:20px;
+
+border-radius:20px;
+
+border:1px solid rgba(255,255,255,.12);
+
+box-shadow:0px 10px 30px rgba(0,0,0,.25);
+
+margin-bottom:25px;
+
+}
+
+/* Stat Cards */
+
+.stat{
+
+background:linear-gradient(135deg,#2563eb,#7c3aed);
+
+padding:20px;
+
+border-radius:18px;
+
+text-align:center;
+
+color:white;
+
+font-weight:bold;
+
+font-size:22px;
+
+}
+
+/* Buttons */
+
+.stButton>button{
+
+background:linear-gradient(90deg,#2563eb,#7c3aed);
+
+color:white;
+
+border:none;
+
+border-radius:14px;
+
+padding:15px;
+
+font-weight:bold;
+
+font-size:18px;
+
+transition:.3s;
+
+width:100%;
+
+}
+
+.stButton>button:hover{
+
+transform:scale(1.03);
+
+box-shadow:0px 0px 20px #3b82f6;
+
+}
+
+/* Radio Buttons */
+
+div[role="radiogroup"]{
+padding:15px;
+background:#0f172a;
+border-radius:15px;
+}
+
+/* Progress */
+
+.stProgress > div > div > div{
+background:#22c55e;
+}
+
+/* Sidebar */
+
+section[data-testid="stSidebar"]{
+background:#0b1220;
+}
