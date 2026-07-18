@@ -138,21 +138,7 @@ streamlit run app.py
 7. The user answers the questions.
 8. The application calculates and displays the final score.
 
----
 
-## 📸 Screenshots
-
-### Home Page
-
-*(Add screenshot here)*
-
-### Quiz
-
-*(Add screenshot here)*
-
-### Results
-
-*(Add screenshot here)*
 
 ---
 
